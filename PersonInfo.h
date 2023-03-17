@@ -5,7 +5,6 @@
 class PersonInfo
 {
 	private:
-
 	std::string m_name;
 	std::string m_surname;
 	int16_t m_age;
